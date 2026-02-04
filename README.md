@@ -4,7 +4,7 @@
  
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
-<br/>- **re-store.ru** <a href="https://re-store.ru/"><img height="50" src="icons/restore.jpeg" width="50"/></a>
+<br/>- **re-store.ru** <a href="https://re-store.ru/"><img height="75" src="icons/restore.jpeg" width="75"/></a>
 
 <p><a href="https://t.me/rostisalv143" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/rostisalv143"><img src="icons/telegram.png" alt="Telegram Icon" width="25" height="25"/></a>
 
