@@ -1,4 +1,4 @@
-# Всем привет! Меня зовут Ростислав 👋  <a href="https://t.me/rostisalv143"><img src="icons/telegram.png" alt="Telegram Icon" width="25" height="25"/></a>
+# Всем привет! Меня зовут Ростислав 👋  <a href="https://t.me/rostislav143"><img src="icons/telegram.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 <p>Fullstack QA на Java! <img height="30" src="icons/java.png" width="30"/></a> <br/>Мой опыт работы — 2.5 года.</p> 
  
@@ -6,7 +6,7 @@
 ><br/>
 <br/>- **re-store.ru** <a href="https://re-store.ru/"><img height="75" src="icons/restore.jpeg" width="75"/></a>
 
-<p><a href="https://t.me/rostisalv143" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/rostisalv143"><img src="icons/telegram.png" alt="Telegram Icon" width="25" height="25"/></a>
+<p><a href="https://t.me/rostislav143" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/rostisalv143"><img src="icons/telegram.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 ## Мой стек технологий
 
